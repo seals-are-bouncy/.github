@@ -10,3 +10,6 @@ YES, and we encourage it! If you contribute to the organization's projects you *
 
 ## How can I join the organization?
 You don't need to be a member of the organization to contribute to Seals are Bouncy, you can contribute without being a member of the organization, since to become a member of the organization you have to have made significant contributions to the Seals are Bouncy projects. Since at the current moment you have to be invited to join the organization.
+
+### super secret text.
+*psst* if you are a member of the organization, click the view as member button to view our *super secret* members only README.
